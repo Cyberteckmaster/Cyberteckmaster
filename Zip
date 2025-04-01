@@ -1,6 +1,4 @@
 zip -r ultimate-master-plugin.zip ultimate-master-plugin -x "*.git*" "node_modules/*"
-
-
 git init
 git add .
 git commit -m "Initial Commit"
